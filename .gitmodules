@@ -1,0 +1,3 @@
+[submodule "online-courses-backend"]
+	path = online-courses-backend
+	url = https://github.com/vtorresm/online-courses-backend.git
